@@ -5,9 +5,9 @@
     --other-color:blue;
 }
 
-img{
-    pointer-events: none
-}
+/* img{
+    pointer-events: none */
+
 
 .navbar-brand>span{
     color:var(--secondary-color);
